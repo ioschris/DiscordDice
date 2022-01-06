@@ -1,2 +1,2 @@
 # DiscordDice
-A simple dice game with a currency system and gambling mechanisms.
+A simple dice game with a currency system, leaderboards and gambling mechanisms.
