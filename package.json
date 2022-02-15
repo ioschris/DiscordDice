@@ -1,0 +1,26 @@
+{
+  "name": "discorddice",
+  "version": "1.0.0",
+  "description": "A simple dice game with a currency system and gambling mechanisms.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "tsc -w --skipLibCheck",
+    "dev": "npx nodemon index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ioschris/DiscordDice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ioschris/DiscordDice/issues"
+  },
+  "homepage": "https://github.com/ioschris/DiscordDice#readme",
+  "dependencies": {
+    "discord.js": "^13.5.0",
+    "dotenv": "^10.0.0"
+  }
+}
